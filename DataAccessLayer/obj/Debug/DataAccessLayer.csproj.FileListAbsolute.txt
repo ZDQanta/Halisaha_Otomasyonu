@@ -1,0 +1,45 @@
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

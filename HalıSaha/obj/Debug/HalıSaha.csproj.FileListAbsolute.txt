@@ -1,0 +1,326 @@
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\bin\Debug\HalıSaha.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\bin\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\bin\Debug\EntityLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\obj\Debug\HalıSaha.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\obj\Debug\HalıSaha.exe
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\obj\Debug\HalıSaha.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\HalıSaha\obj\Debug\HalıSaha.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\HalıSaha.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\EntityLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.exe
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmAnaEkran.resources
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSecimEkrani.resources
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaKayıtEkrani.resources
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaDuzenleme.resources
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmGrafikBilgileri.resources
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\PdfSharpCore.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\System.Buffers.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\System.Memory.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.xml
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\System.Buffers.xml
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\System.Memory.xml
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\de\PdfSharpCore.resources.dll
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKayitlariListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKarsilasma.resources
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\bin\Debug\HaliSahaDB.accdb
+C:\Users\hasan\OneDrive\Masaüstü\HalıSaha\HalıSaha\obj\Debug\HalıSaha.sahaKontrol.resources
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\HaliSahaDB.accdb
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe.config
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\HalıSaha.pdb
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\EntityLayer.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\PdfSharpCore.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\SixLabors.ImageSharp.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\System.Buffers.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\System.Memory.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.pdb
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.pdb
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\EntityLayer.pdb
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.xml
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\SixLabors.ImageSharp.xml
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\System.Buffers.xml
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\System.Memory.xml
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.xml
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Yeni klasör\HalıSaha\HalıSaha\bin\Debug\de\PdfSharpCore.resources.dll
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.AssemblyReference.cache
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.Form1.resources
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmAnaEkran.resources
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmGrafikBilgileri.resources
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKarsilasma.resources
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKayitlariListele.resources
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaDuzenleme.resources
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaKayıtEkrani.resources
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaListele.resources
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSecimEkrani.resources
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.Properties.Resources.resources
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.sahaKontrol.resources
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.GenerateResource.cache
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.Up2Date
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.exe
+D:\Yeni klasör\HalıSaha\HalıSaha\obj\Debug\HalıSaha.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\HaliSahaDB.accdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\HalıSaha.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\PdfSharpCore.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\System.Buffers.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\System.Memory.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\EntityLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\System.Buffers.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\System.Memory.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\bin\Debug\de\PdfSharpCore.resources.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmAnaEkran.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmGrafikBilgileri.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKarsilasma.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKayitlariListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaDuzenleme.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaKayıtEkrani.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSecimEkrani.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.sahaKontrol.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.exe
+C:\Users\hasan\OneDrive\Masaüstü\V1.2\HalıSaha\HalıSaha\obj\Debug\HalıSaha.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\HaliSahaDB.accdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\HalıSaha.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\PdfSharpCore.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\System.Buffers.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\System.Memory.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\EntityLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\System.Buffers.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\System.Memory.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\bin\Debug\de\PdfSharpCore.resources.dll
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmAnaEkran.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmGrafikBilgileri.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKarsilasma.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKayitlariListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaDuzenleme.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaKayıtEkrani.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSecimEkrani.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.sahaKontrol.resources
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.exe
+C:\Users\hasan\OneDrive\Masaüstü\V1.3\HalıSaha\HalıSaha\obj\Debug\HalıSaha.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\HaliSahaDB.accdb
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\HalıSaha.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\PdfSharpCore.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Buffers.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Memory.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\EntityLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.xml
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Buffers.xml
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Memory.xml
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\de\PdfSharpCore.resources.dll
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmAnaEkran.resources
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmGrafikBilgileri.resources
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKarsilasma.resources
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKayitlariListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaDuzenleme.resources
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaKayıtEkrani.resources
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSecimEkrani.resources
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.sahaKontrol.resources
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.exe
+C:\Users\hasan\OneDrive\Masaüstü\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.pdb
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\HaliSahaDB.accdb
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe.config
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\HalıSaha.pdb
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.dll
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.dll
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\EntityLayer.dll
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\PdfSharpCore.dll
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.dll
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Buffers.dll
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Memory.dll
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.dll
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.pdb
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.pdb
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\EntityLayer.pdb
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.xml
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Buffers.xml
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Memory.xml
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.xml
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\de\PdfSharpCore.resources.dll
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.AssemblyReference.cache
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmAnaEkran.resources
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmGrafikBilgileri.resources
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKarsilasma.resources
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKayitlariListele.resources
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaDuzenleme.resources
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaKayıtEkrani.resources
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaListele.resources
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSecimEkrani.resources
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.Properties.Resources.resources
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.sahaKontrol.resources
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.GenerateResource.cache
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.CoreCompileInputs.cache
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.Up2Date
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.exe
+D:\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\HaliSahaDB.accdb
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\HalıSaha.exe
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\HalıSaha.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\EntityLayer.dll
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\PdfSharpCore.dll
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.dll
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Buffers.dll
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Memory.dll
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\BusinessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\DataAccessLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\EntityLayer.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\SixLabors.Fonts.xml
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Buffers.xml
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Memory.xml
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\bin\Debug\de\PdfSharpCore.resources.dll
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmAnaEkran.resources
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmGrafikBilgileri.resources
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKarsilasma.resources
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmKayitlariListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaDuzenleme.resources
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaKayıtEkrani.resources
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSahaListele.resources
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.frmSecimEkrani.resources
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.sahaKontrol.resources
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.csproj.Up2Date
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.exe
+C:\Users\hasan\OneDrive\Masaüstü\Yeni klasör\Görsel Final Ödevi\HalıSaha\HalıSaha\obj\Debug\HalıSaha.pdb
